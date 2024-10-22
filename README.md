@@ -8,6 +8,7 @@
                         
 # Assignment Overview
 Please add a paragraph or two overviewing the objectives of the assignment.
+- The goal of the assignment is to
 
 # GitHub Repository Link:
 https://github.com/ninasudh688/cs665assignment3
@@ -25,6 +26,21 @@ easy for others to read and maintain.
 - If applicable, mention any design patterns you have used and explain why they were
 chosen.
 
+
+-I used ____ Pattern
+- Here is how I used the _____ Pattern/Set up the classes:
+  - c
+- Assumptions that I made:
+    - I assumed that 
+
+# Running My Code And UML:
+
+- I placed my UML diagram in cs665_assignment3_UMLDiagram_Sudheesh.PDF within this zipped folder
+- I placed my code in package emailSystem under the edu.bu.met.cs665 package.
+- The Main class is outside this package.
+- I tested my code using junit tests by using a JUnit test class Test_____ in the test package.
+    - I also tested some code as well in the Main class.
+- The code compiles using mvn clean compile.
 
 # Maven Commands
 
