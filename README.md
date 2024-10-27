@@ -38,7 +38,7 @@ chosen.
 - I placed my UML diagram in cs665_assignment3_UMLDiagram_Sudheesh.PDF within this zipped folder
 - I placed my code in package emailSystem under the edu.bu.met.cs665 package.
 - The Main class is outside this package.
-- I tested my code using junit tests by using a JUnit test class Test_____ in the test package.
+- I tested my code using junit tests by using a JUnit test class TestEmailGenerationSystem in the test package.
     - I also tested some code as well in the Main class.
 - The code compiles using mvn clean compile.
 
