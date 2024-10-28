@@ -15,7 +15,6 @@ import static org.junit.Assert.assertEquals;
 import edu.bu.met.cs665.emailsystem.BusinessCustomerStrategy;
 import edu.bu.met.cs665.emailsystem.Customer;
 import edu.bu.met.cs665.emailsystem.EmailStrategy;
-
 import edu.bu.met.cs665.emailsystem.FrequentCustomerStrategy;
 import edu.bu.met.cs665.emailsystem.NewCustomerStrategy;
 import edu.bu.met.cs665.emailsystem.ReturningCustomerStrategy;

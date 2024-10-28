@@ -1,9 +1,10 @@
 /**
- * Name: FIRST_NAME LAST_NAME
+ * Name: Nina Sudheesh
  * Course: CS-665 Software Designs & Patterns
- * Date: MM/DD/YYYY
+ * Date: 10/26/2024
  * File Name: Main.java
- * Description: Write a description for this class
+ * Description:
+ * This class is responsible as Main class to test outside of junits
  */
 
 package edu.bu.met.cs665;
@@ -28,7 +29,7 @@ public class Main {
    * However, please note that every assignment/final projects requires JUnit tests.
    */
   public static void main(String[] args) {
-    System.out.println("This is a test message from the Main class (Main.java file)");
+    System.out.println("MAIN.java TEST message from the Main class");
     System.out.println("---------------------------------------------");
 
     // Create customers with different strategies.
@@ -55,7 +56,7 @@ public class Main {
         NewCustomerStrategy("Use code WELCOME10 for 10% off!"));
     System.out.println("\nNew Customer Email:");
     System.out.println(customer4.sendEmail("Wendy T",
-        "Marketing Team","Tech Corp"));
+        "Marketing Team", "Tech Corp"));
     System.out.println("---------------------------------------------");
     //when customer type changed:
     customer4.setEmailStrategy(new
